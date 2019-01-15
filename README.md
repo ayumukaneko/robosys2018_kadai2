@@ -11,5 +11,5 @@ This repository is licensed under the GPLv3 license, see LICENSE.
 ## 操作方法
     $ roscore
     $ roslaunch mypkg mypkg.launch
-この後、手元のPCのブラウザで　http://ラズパイのIPアドレス:8000　を閲覧 
+この後、手元のPCのブラウザで`http://ラズパイのIPアドレス:8000`を閲覧 
 ## 動画URL(YouTube)
