@@ -10,8 +10,6 @@ This repository is licensed under the GPLv3 license, see LICENSE.
 
 ## 操作方法
     $ roscore
-    $ rosrun mypkg count.py
-    $ rosrun mypkg twice.py
     $ roslaunch mypkg mypkg.launch
 
 ## 動画URL(YouTube)
